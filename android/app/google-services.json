@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841831891997",
+    "project_id": "unibook-95eb6",
+    "storage_bucket": "unibook-95eb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841831891997:android:e54efd93fac816cdf272f4",
+        "android_client_info": {
+          "package_name": "com.cece.unibook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoZoTY8t9GAMfiHNwbOTa9VKv2DTdIvPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
